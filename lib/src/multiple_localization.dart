@@ -130,7 +130,6 @@ class _MultipleLocalizationLookup implements intl_private.MessageLookup {
       if (!isAbsent) return res;
     }
 
-    // TODO: может тут Intl.canonicalizedLocale(fallbackLocale)?
     if (locale != fallbackLocale) {
       return lookupMessage(messageStr, fallbackLocale, name, args, meaning,
           ifAbsent: ifAbsent);
