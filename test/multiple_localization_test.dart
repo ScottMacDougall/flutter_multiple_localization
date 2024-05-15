@@ -1,7 +1,7 @@
 import 'dart:ui';
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:multiple_localization/src/multiple_localization.dart';
+import 'package:multiple_localization_plus/src/multiple_localization.dart';
 
 void main() {
   group('MultipleLocalizations', () {

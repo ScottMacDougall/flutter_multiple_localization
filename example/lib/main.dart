@@ -1,7 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:multiple_localization/multiple_localization.dart';
+import 'package:multiple_localization_plus/multiple_localization_plus.dart';
+
 import './app/l10n/messages_all.dart';
 import './package/l10n/messages_all.dart' as package;
 

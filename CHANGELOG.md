@@ -1,3 +1,11 @@
+## [0.5.0] - 2024-05-14
+
+- Upgraded intl dependency to 0.19.0.
+
+## [0.4.0] - 2023-05-10
+
+- Upgraded dependencies.
+
 ## [0.3.0] - 2021-03-10
 
 - Support for fallback locale.
